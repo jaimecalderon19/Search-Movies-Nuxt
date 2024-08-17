@@ -1,75 +1,85 @@
-# Nuxt 3 Minimal Starter
+# Search Movies Nuxt
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+## Descripción
+Search Movies Nuxt es una aplicación web desarrollada con Nuxt.js que permite a los usuarios buscar y explorar información sobre películas. Utiliza la API de The Movie Database (TMDb) para obtener datos actualizados sobre películas.
 
-## Setup
+## Capturas de Pantalla
 
-Make sure to install the dependencies:
+Aquí tienes algunas capturas de pantalla del proyecto:
 
-```bash
-# npm
-npm install
+![Captura de Pantalla 1](public/readme_0.gif)
+![Captura de Pantalla 2](public/readme_asset_2.png)
+![Captura de Pantalla 2](public/readme_asset_2.png)
 
-# pnpm
-pnpm install
+## Características
+- Búsqueda de películas por título
+- Visualización de detalles de películas, incluyendo sinopsis, calificación, género y fecha de lanzamiento
+- Interfaz de usuario responsive y amigable
+- Integración con la API de TMDb
 
-# yarn
-yarn install
+## Tecnologías utilizadas
+- Nuxt.js 3
+- Vue.js 3
+- TypeScript
+- CSS3
+- The Movie Database (TMDb) API
 
-# bun
-bun install
+## Requisitos previos
+- Node.js (versión 14.x o superior)
+- npm o yarn
+
+## Instalación
+1. Clona el repositorio:
+   ```
+   git clone https://github.com/jaimecalderon19/Search-Movies-Nuxt.git
+   ```
+2. Navega al directorio del proyecto:
+   ```
+   cd search-movies-nuxt
+   ```
+3. Instala las dependencias:
+   ```
+   npm install
+   ```
+   o si usas yarn:
+   ```
+   yarn install
+   ```
+
+## Configuración
+1. Crea una cuenta en [The Movie Database](https://www.themoviedb.org/) y obtén una API key.
+2. Crea un archivo `.env` en la raíz del proyecto y añade tu API key:
+   ```
+   TMDB_API_KEY=tu_api_key_aquí
+   ```
+
+## Ejecución
+Para ejecutar la aplicación en modo de desarrollo:
 ```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
 npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
+```
+o si usas yarn:
+```
 yarn dev
-
-# bun
-bun run dev
 ```
 
-## Production
+La aplicación estará disponible en `http://localhost:3000`.
 
-Build the application for production:
-
-```bash
-# npm
+## Construcción para producción
+Para construir la aplicación para producción:
+```
 npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
+```
+o si usas yarn:
+```
 yarn build
-
-# bun
-bun run build
 ```
 
-Locally preview production build:
+## Despliegue
+Sigue la [documentación de Nuxt.js](https://nuxt.com/docs/getting-started/deployment) para obtener instrucciones sobre cómo desplegar tu aplicación en diferentes plataformas.
 
-```bash
-# npm
-npm run preview
 
-# pnpm
-pnpm run preview
+## Contacto
+Jaime Calderon- jaimebc.yt@gmail.com
 
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+Enlace del proyecto: [https://github.com/jaimecalderon19/Search-Movies-Nuxt.git](https://github.com/jaimecalderon19/Search-Movies-Nuxt.git)

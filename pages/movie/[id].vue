@@ -68,7 +68,8 @@ onBeforeMount(() => {
 
     .back-button {
         color: black;
-        font-size: 40px;
+        width:  40px;
+        height:  40px;
         position: absolute;
         top: 10px;
         left: 10px;
