@@ -8,7 +8,7 @@ Search Movies Nuxt es una aplicación web desarrollada con Nuxt.js que permite a
 Aquí tienes algunas capturas de pantalla del proyecto:
 
 ![Captura de Pantalla 1](public/readme_0.gif)
-![Captura de Pantalla 2](public/readme_asset_2.png)
+![Captura de Pantalla 2](public/readme_asset_1.png)
 ![Captura de Pantalla 2](public/readme_asset_2.png)
 
 ## Características
