@@ -11,6 +11,9 @@ Aquí tienes algunas capturas de pantalla del proyecto:
 ![Captura de Pantalla 2](public/readme_asset_1.png)
 ![Captura de Pantalla 2](public/readme_asset_2.png)
 
+## Link para probarlo
+[https://search-movies-nuxt-production.up.railway.app/](https://search-movies-nuxt-production.up.railway.app/)
+
 ## Características
 - Búsqueda de películas por título
 - Visualización de detalles de películas, incluyendo sinopsis, calificación, género y fecha de lanzamiento
